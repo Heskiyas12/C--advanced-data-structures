@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\heski\OneDrive\Documents\MA3\MA3\generateUsers.hpp(90,34): warning C4101: 'e': unreferenced local variable
+C:\Users\heski\OneDrive\Documents\MA3\MA3\generateUsers.hpp(94,30): warning C4101: 'e': unreferenced local variable
+C:\Users\heski\OneDrive\Documents\MA3\MA3\generateUsers.hpp(108,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\heski\OneDrive\Documents\MA3\MA3\generateUsers.hpp(110,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\heski\OneDrive\Documents\MA3\MA3\main.cpp(41,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  MA3.vcxproj -> C:\Users\heski\OneDrive\Documents\MA3\x64\Debug\MA3.exe
