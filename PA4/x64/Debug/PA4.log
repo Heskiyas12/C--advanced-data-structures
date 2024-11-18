@@ -1,0 +1,21 @@
+﻿  main.cpp
+  testLinearProbing.cpp
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(121,26): warning C4244: 'return': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(119,12): message : while compiling class template member function 'double ProbingHash<Employee>::readArraySize(void)'
+C:\Users\heski\OneDrive\Documents\PA4\testLinearProbing.cpp(47,58): message : see the first reference to 'ProbingHash<Employee>::readArraySize' in 'testInsertToHash'
+C:\Users\heski\OneDrive\Documents\PA4\testLinearProbing.cpp(14,3): message : see reference to class template instantiation 'ProbingHash<Employee>' being compiled
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(166,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(163,10): message : while compiling class template member function 'void ProbingHash<Employee>::rehash(void)'
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(62,19): message : see the first reference to 'ProbingHash<Employee>::rehash' in 'ProbingHash<Employee>::insert'
+C:\Users\heski\OneDrive\Documents\PA4\testLinearProbing.cpp(14,20): message : see the first reference to 'ProbingHash<Employee>::insert' in 'addRandomEntries'
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(153,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(147,9): message : while compiling class template member function 'int ProbingHash<Employee>::findPos(const HashedObj &) const'
+          with
+          [
+              HashedObj=Employee
+          ]
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(94,19): message : see the first reference to 'ProbingHash<Employee>::findPos' in 'ProbingHash<Employee>::remove'
+C:\Users\heski\OneDrive\Documents\PA4\testLinearProbing.cpp(52,19): message : see the first reference to 'ProbingHash<Employee>::remove' in 'testRemoveFromHash'
+C:\Users\heski\OneDrive\Documents\PA4\LinearProbing.h(158,41): warning C4267: '-=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  PA4.vcxproj -> C:\Users\heski\OneDrive\Documents\PA4\x64\Debug\PA4.exe
